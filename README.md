@@ -2,7 +2,7 @@
 ![java fx logo](https://imgur.com/pyTZgzk.jpg)
 
 # Lab 07: HelloWorld + GUIs Intro
-
+hi this is rachel
 GUIs, or Graphical User Interfaces, are the most common way we use computer applications. Whether the input is from the
 keyboard, mouse, or touch, there are many ways users interact with GUIs to accomplish tasks or solve problems. As a
 front-end developer, a programmer who focuses on the side that the user interacts with, we must constantly think of our
